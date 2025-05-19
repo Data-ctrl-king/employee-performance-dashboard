@@ -1,9 +1,10 @@
-# 📊 employee_dashboard_preview.png
+# 📊   Employee Performance & Productivity Dashboard
 
 
 An Excel dashboard designed to monitor employee productivity using performance metrics, attendance data, and department-wise analysis.
 
-![Dashboard Preview](Employee%20Performance%20%26%20Productivity%20Dashboard.png)
+
+![Dashboard Preview](employee_dashboard_preview.png)
 
 
 ---
